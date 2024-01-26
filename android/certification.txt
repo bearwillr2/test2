@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Tomi Maldives 1.0
+---------------------------------------------------
+
+app_name - 						Tomi Maldives
+app_alias - 					tomimaldives
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Bar
+app_author_country - 			Montenegro
+app_password - 					Kz4VyPKQrWx0
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Thursday 25th of January 2024 08:02:09 AM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
